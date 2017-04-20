@@ -10,7 +10,7 @@ Recommended reading:
 https://kivy.org/docs/installation/installation-linux.html#using-software-packages
 
 
-On Ubuntu....
+On Ubuntu 14.04...
 
 ```
 $ sudo apt-get install libsdl1.2-dev
