@@ -20,8 +20,6 @@ $ sudo apt-get install libsdl1.2-dev
 Inside the virtualenv:
 
 ```
-$ pip install numpy
-$ pip install Cython==0.23
-$ pip install pygame
-$ pip install kivy
+$ pip install -r requirements.txt
+
 ```
